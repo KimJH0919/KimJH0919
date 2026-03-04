@@ -9,13 +9,6 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 - Industrial Quantization
 - Deep Learning
   
----
-
-## 🎓 Education
-
-- **M.S. in Smart Factory Convergence**, Sungkyunkwan University *(2026 - Present)*
-  
-- **B.A. in ComputerSoftware**, DongSeoul University *(2020 - 2025)*
   
 ---
 
