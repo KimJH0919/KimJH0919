@@ -45,6 +45,9 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 
 ### Patents
 
+---
+
+## publications
 
 ---
 
