@@ -50,6 +50,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 ## 📝 publications
 
 Conference Papers:
+
 J.Kim, J.Jeong "DeOP-Light: Analyzing the Fine-tuning Paradox in CLIP Visual Encoder Compression for Open-Vocabulary Semantic Segmentation" in 2026 International Conference on Computational Science and Its Applications(ICCSA)
 
 ---
